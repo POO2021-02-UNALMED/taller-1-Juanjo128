@@ -1,1 +1,2 @@
 Juan Jose Chaves Alvear, 21 años , espero poder aprender a programar teniendo en cuenta el paradigma orientado a objetos
+hay que tener cuidado porque puede haber un conflicto con los datos
