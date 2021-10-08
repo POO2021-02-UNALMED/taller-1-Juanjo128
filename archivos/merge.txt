@@ -1,0 +1,1 @@
+La carpeta archivos ahora si se pudo crear y subir los archivos, creo que porque ya tenia un archivo de texto en ella
